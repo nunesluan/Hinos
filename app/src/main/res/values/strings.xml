@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Anthems</string>
+
+    <string name="titulo_alert">Information</string>
+    <string name="button_alert">Ok</string>
+    <string name="button_stop">STOP</string>
+
+    <!-- Historia dos times -->
+    <string name="gremio_hist">Grêmio is a Brazilian football club from the city of Porto Alegre,
+        Rio Grande do Sul, founded on September 15, 1903. It is considered one of the biggest clubs
+        in Brazil and South America. Its colors are blue, black and white. . Its biggest rival is
+        Internacional.</string>
+    <string name="inter_hist">Internacional is a Brazilian multi-sports club from the city of
+        Porto Alegre, capital of Rio Grande do Sul. It was founded on April 4, 1909, by the Poppe
+        brothers, with the aim of being a democratic institution without prejudice. Its colors are
+        red and white and its fans are known as colorados. Their biggest rival is Grêmio.</string>
+    <string name="cec_hist">Cruzeiro Esporte Clube is a Brazilian multi-sport association, based in
+        Belo Horizonte, Minas Gerais. It is considered one of the biggest football clubs in Brazil
+        and South America. Founded in 1921 under the name of Società Sportiva Palestra Italia, it
+        was renamed to its current name in 1942 - in reference to Cruzeiro do Sul. Its biggest rival
+        is Atlético Mineiro.</string>
+    <string name="cam_hist">Clube Atlético Mineiro is a Brazilian football club based in the city
+        of Belo Horizonte, Minas Gerais. It was founded on March 25, 1908 by a group of students,
+        and its traditional colors are black and white. His most popular symbol and nickname is
+        the Rooster. Its biggest rival is Cruzeiro.</string>
+    <string name="cor_hist">Sport Club Corinthians Paulista is a Brazilian multi-sport club from
+        the city of São Paulo, capital of the state of São Paulo. It was founded as a football team
+        on September 1, 1910 by a group of workers from the Bom Retiro neighborhood. Its name was
+        inspired by Corinthian FC from London, which toured Brazil.</string>
+    <string name="spfc_hist">São Paulo Futebol Clube is a Brazilian multi-sport club from the city
+        of São Paulo, capital of the homonymous state. It was founded on January 25, 1930, having
+        interrupted its activities in May 1935, and resumed in December of the same year.
+        In football, it is one of the most successful clubs in Brazil.</string>
+    <string name="san_hist">Santos Futebol Clube is a Brazilian multi-sport club from the city of
+        Santos, São Paulo. It was founded on April 14, 1912. Santos became in football one of
+        the most successful clubs in Brazil and recognized worldwide. He became famous in the 60s
+        for the various international and national championships he won and for revealing
+        Pelé.</string>
+</resources>

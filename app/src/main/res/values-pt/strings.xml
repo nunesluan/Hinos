@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hinos</string>
+    <string name="titulo_alert">Informações</string>
+    <string name="button_stop">PAUSAR</string>
+
+    <!-- Historia dos times -->
+    <string name="gremio_hist">O Grêmio é um clube de futebol brasileiro da cidade de Porto Alegre,
+        no Rio Grande do Sul, fundado em 15 de setembro de 1903. É considerado um dos maiores clubes
+        do Brasil e da América do Sul. Suas cores são azul, preto e branco. Seu maior rival é
+        o Internacional.</string>
+    <string name="inter_hist">O Internacional é um clube multiesportivo brasileiro da cidade de
+        Porto Alegre, capital do Rio Grande do Sul. Foi fundado em 4 de abril de 1909, pelos irmãos
+        Poppe, com o objetivo de ser uma instituição democrática e sem preconceitos. Tem como suas
+        cores o vermelho e o branco e seus torcedores são conhecidos como colorados. Seu maior
+        rival é o Grêmio.</string>
+    <string name="cec_hist">Cruzeiro Esporte Clube é uma associação polidesportiva brasileira,
+        com sede em Belo Horizonte, Minas Gerais. É considerado um dos maiores clubes de futebol
+        do Brasil e da América do Sul. Fundado em 1921 com o nome de Società Sportiva Palestra
+        Italia, foi rebatizado para seu nome atual em 1942 - em referência ao Cruzeiro do Sul.
+        Seu maior rival é o Atlético Mineiro.</string>
+    <string name="cam_hist">O Clube Atlético Mineiro é um clube brasileiro de futebol sediado na
+        cidade de Belo Horizonte, Minas Gerais. Foi fundado em 25 de março de 1908 por um grupo
+        de estudantes, tem como suas cores tradicionais o preto e o branco. Seu símbolo e alcunha
+        mais popular é o Galo. Seu maior rival é o Cruzeiro. </string>
+    <string name="cor_hist">Sport Club Corinthians Paulista é um clube poliesportivo brasileiro da
+        cidade de São Paulo, capital do estado de São Paulo. Foi fundado como uma equipe de futebol
+        no dia 1 de setembro de 1910 por um grupo de operários do bairro Bom Retiro. Seu nome foi
+        inspirado no Corinthian FC de Londres, que excursionava pelo Brasil.</string>
+    <string name="spfc_hist">São Paulo Futebol Clube é um clube poliesportivo brasileiro da cidade
+        de São Paulo, capital do estado homônimo. Foi fundado em 25 de janeiro de 1930,
+        tendo interrompido suas atividades em maio de 1935, e as retomado em dezembro do mesmo ano.
+        No futebol, é um dos clubes mais bem sucedidos do Brasil.</string>
+    <string name="san_hist">Santos Futebol Clube é um clube poliesportivo brasileiro da cidade de
+        Santos, São Paulo. Foi fundado em 14 de abril de 1912. O Santos tornou-se no futebol um
+        dos clubes mais bem-sucedidos do Brasil e reconhecidos mundialmente. Ficou famoso na
+        década de 60 pelos vários títulos internacionais e nacionais conquistados e por ter
+        revelado Pelé.</string>
+
+
+
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00897b"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/stopSan"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonSan" />
+
+    <Button
+        android:id="@+id/stopSpfc"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="264dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonSpfc" />
+
+    <Button
+        android:id="@+id/stopCor"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonCor" />
+
+    <Button
+        android:id="@+id/stopCam"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonCam" />
+
+    <Button
+        android:id="@+id/stopCru"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="264dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonCec" />
+
+    <Button
+        android:id="@+id/stopInt"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonInt" />
+
+    <ImageButton
+        android:id="@+id/imageButtonGre"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="104dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/icone_gre" />
+
+    <ImageButton
+        android:id="@+id/imageButtonInt"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="104dp"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonGre"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/icone_sci" />
+
+    <ImageButton
+        android:id="@+id/imageButtonCec"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="104dp"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonInt"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/icone_cec" />
+
+    <ImageButton
+        android:id="@+id/imageButtonCam"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="140dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonGre"
+        android:background="@drawable/icone_cam" />
+
+    <ImageButton
+        android:id="@+id/imageButtonCor"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="140dp"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonCam"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonInt"
+        android:background="@drawable/icone_cor"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonSpfc"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="140dp"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonCor"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonCec"
+        android:background="@drawable/icone_spfc"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonSan"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="116dp"
+        android:background="@drawable/icone_san"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonCam" />
+
+    <Button
+        android:id="@+id/StopGre"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/button_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonGre" />
+</androidx.constraintlayout.widget.ConstraintLayout>
